@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+Pillow
+ultralytics
+google-generativeai
